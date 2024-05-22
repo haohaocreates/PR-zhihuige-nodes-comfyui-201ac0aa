@@ -1,0 +1,14 @@
+[project]
+name = "zhihuige-nodes-comfyui"
+description = "Nodes: Combine ZHGMasks, Cover ZHGMasks, ZHG FaceIndex, ZHG SaveImage, ZHG SmoothEdge, ZHG GetMaskArea, ..."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/rcfcu2000/zhihuige-nodes-comfyui"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "zhihuige-nodes-comfyui"
+Icon = ""
